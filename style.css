@@ -8,7 +8,7 @@
 /* Загальні стилі */
 body {
     font-family: 'Segoe UI', sans-serif;
-    background-color: #fdfdfd;
+    background-color: white;
     color: #000;
 }
 
@@ -109,7 +109,7 @@ nav a:hover {
 /* Послуги */
 .aftonom_drive {
     padding: 60px 40px;
-    background-color: #f2f2f2;
+    background-color: white;
 }
 
 .aftonom {
@@ -141,7 +141,7 @@ nav a:hover {
 }
 
 .aftonom_drive_text {
-    font-size: 18px;
+    font-size: 28px;
     max-width: 450px;
 }
 
@@ -167,7 +167,7 @@ nav a:hover {
 }
 
 .geo_kaptunka{
-    width: 700px;
+    width: 100%;
 }
 
 /* Сприйняття */
@@ -178,7 +178,7 @@ nav a:hover {
 
 .pobhe_text {
     font-size: 28px;
-    max-width: 400px;
+    max-width: 600px;
     margin: 0 40px 30px;
 }
 
