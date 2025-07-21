@@ -146,7 +146,7 @@ nav a:hover {
 }
 
 .aftonom_drive_kaptunka {
-    max-width: 600px;
+    max-width: 1000px;
     width: 100%;
     object-fit: contain;
 }
@@ -167,7 +167,7 @@ nav a:hover {
 }
 
 .geo_kaptunka{
-    width: 100%;
+    width: 1000px;
 }
 
 /* Сприйняття */
@@ -183,7 +183,7 @@ nav a:hover {
 }
 
 .pobhe_kaptunka{
-    width: 700px; 
+    width: 1000px; 
 }
 
 /* Footer */
